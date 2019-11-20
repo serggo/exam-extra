@@ -1,0 +1,11 @@
+test2:
+
+    build: .
+    ports:
+      - 8889:80
+
+
+
+mytest2:
+    build: pdo-master/.
+
